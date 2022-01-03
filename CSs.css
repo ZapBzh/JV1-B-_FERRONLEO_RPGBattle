@@ -1,0 +1,25 @@
+body {
+   height: 100vh;
+    background-image: url("./Image/lave.png"); 
+    background-repeat:no-repeat ;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    
+}
+   
+   header {
+
+    background-color: black;
+    position: fixed;
+    top:0;
+    left:0;  
+    right: 0;
+
+    display: center;
+    justify-content: center;
+
+}
+
+img.Boss1.png
